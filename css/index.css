@@ -272,7 +272,7 @@ html, body {
   }
   .top-nav {
     position: fixed;
-    width: 49%;
+    width: 44%;
     display: flex;
     flex-direction: row;
     align-items: center;
