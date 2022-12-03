@@ -272,7 +272,7 @@ html, body {
   }
   .top-nav {
     position: fixed;
-    width: 51%;
+    width: 48%;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -325,7 +325,7 @@ html, body {
     display: flex;
     flex-direction: column;
     padding: 0px 200px;
-    height: 434px;
+    height: 420px;
     justify-content: center;
     align-items: center;
   }
@@ -339,7 +339,7 @@ html, body {
     top: 0px;
     left: 0px;
     right: 100px;
-    width: 800px;
+    width: 790px;
     z-index: -9;
     /* opacity: ; */
     margin-top: 80px;
